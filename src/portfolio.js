@@ -38,7 +38,6 @@ const socialMediaLinks = {
   gmail: "saadpasta70@gmail.com",
   gitlab: "https://gitlab.com/saadpasta",
   facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
   stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -305,7 +304,7 @@ const achievementSection = {
 
 // Blogs Section
 
-const blogSection = {
+/*const blogSection = {
   title: "Blogs",
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
@@ -325,7 +324,7 @@ const blogSection = {
     }
   ],
   display: true // Set false to hide this section, defaults to true
-};
+};*/
 
 // Talks Sections
 
